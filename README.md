@@ -5,10 +5,10 @@
                  notificados e atualizados automaticamente.
           
          #Para exemplificar segue um exemplo hipotético:
-          Cenário: Em um Shopping, quando o gerente responsavel pelo Cinema liberar 
+          Cenário: Em um Shopping, quando o gerente responsável pelo Cinema liberar 
                    um filme (para ser vendido e exibido) o setor de vendas de ingressos,
                    o setor de publicidade e o setor de exibições de filmes 
                    deverão ser notificados. 
                    
           Nota: Esse Padrão é muito útil quando a ocorrência de um evento interessa  
-          a varios outros componentes do sistema.
+          a vários outros componentes do sistema.
