@@ -1,8 +1,8 @@
 # ObserverPattern 
   
-  Define: uma dependência um-para-muitos entre objetos, então quando o 
-          estado de um objeto muda, todos os seus dependentes serão 
-          notificados e atualizados automaticamente.
+         Define: uma dependência um-para-muitos entre objetos, então quando o 
+                 estado de um objeto muda, todos os seus dependentes serão 
+                 notificados e atualizados automaticamente.
           
          #Para exemplificar segue um exemplo hipotético:
           Cenário: Em um Shopping, quando o gerente responsavel pelo Cinema liberar 
